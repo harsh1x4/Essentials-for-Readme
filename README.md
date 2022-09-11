@@ -7,3 +7,16 @@
 
 3. Typing SVG from [Jonah Lawrence](https://git.io/typing-svg) <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=4FA5F7&size=22&lines=Harshbardhan+Singh;I'm+a+frontend+web+developer;Enthusiast+in+design)](https://git.io/typing-svg)
+
+4. Emoji
+That is so funny! :smile:
+
+5. Blockquote
+> *In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them.*
+
+6. Table
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
